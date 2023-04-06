@@ -557,7 +557,7 @@ lib.properties = {
 	height: 2000,
 	fps: 24,
 	color: "#FFFFFF",
-	opacity: 1.00,
+	opacity: 0.00,
 	manifest: [],
 	preloads: []
 };
